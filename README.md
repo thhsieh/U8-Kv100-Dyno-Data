@@ -1,2 +1,2 @@
 # U8-Kv100-Dyno-Data
-Go to Processed Data and run PlotData.m to plot all the data.
+Navigate to the 'Processed Data' directory and execute 'PlotData.m' to visualize all the data. Alternatively, you can download the raw data and process it according to your own requirements.
